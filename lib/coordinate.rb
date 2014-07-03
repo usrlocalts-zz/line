@@ -13,4 +13,5 @@ class Coordinate
     coordinate2 = coordinate.coordinate_variables
     @x == coordinate2[0] && @y == coordinate2[1]
   end
+
 end
